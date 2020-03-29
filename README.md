@@ -1,5 +1,5 @@
 # Vmeet
-A new way to collaborate with your colleagues and organizing your meetings.
+A new way to collaborate with your colleagues and organizing virtual meetings.
 
 ## Usage
 An *ML based web platform* which not only enables users to organize all their virtual meetings within an organization, company or a startup but more importantly helps them to get to know their fellow participants before they virtually start a meeting with them. Based on your interests it also recommends fun and insightful virtual meetings happening across the world to relieve user from work related stress while making sure that they constantly upskill themselves in this fast paced digital world. This would also help prevent strange culture within an organization where employees spend much time getting to know each other. 
