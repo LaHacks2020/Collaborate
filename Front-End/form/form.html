@@ -57,7 +57,7 @@
                                 <option value="George">George</option>
                             </select>
                             <div class="form-button text-center">
-                                <button id="submit" type="submit" class="ibtn">SEND
+                                <button id="submit" type="submit" onsubmit="submitBtn()" class="ibtn">SEND
                                     INVITES</button>
                             </div>
                         </form>
@@ -66,6 +66,21 @@
             </div>
         </div>
     </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script>
+    $(document).ready(function(){
+      $(".ibtn").click(function(){
+        $.post("http://localhost:8080",
+        {
+          name: "Donald Duck",
+          city: "Duckburg"
+        },
+        function(data,status){
+          alert("Data: " + data + "\nStatus: " + status);
+        });
+      });
+    });
+    </script>
 </body>
 
 </html>
