@@ -25,6 +25,6 @@ Considering the current situation where almost all the meetings have turned virt
 
 2) Building an ML model to give meetup recommendations based on user profile data and meetup api keywords
 
-3) Backend integration of many api's( Twilio, Sendgrid, google, zoom, calendly, meetup) together with the mongodb database
+3) Backend integration of many api's( Twilio, Sendgrid, google-api, zoom, calendly, esri, meetup) together with the mongodb database
 
 4) Integrating front end and Ml model with the back end 
