@@ -1,4 +1,4 @@
-# Collaborate
+# Vmeet
 A new way to collaborate with your colleagues and organizing your meetings.
 
 ## Usage
