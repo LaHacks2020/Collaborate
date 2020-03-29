@@ -39,6 +39,11 @@ h3
     padding: 15px 10px ;
 }
 
+.row {
+    margin-right: -245px;
+    margin-left: 75px;
+}
+
 .row::after
 {
     content : "" ;
@@ -59,8 +64,8 @@ h3
 .card
 {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0,2) ;
-    max-width: 300px ;
-    margin: auto ;
+    max-width: 303500px ;
+    margin: auto 2% auto 2% ;
     background-color: #f0f0f0 ;
     text-align: center ;
     border-radius: 40px ;
@@ -140,3 +145,12 @@ body
 {
     display: block ;
 }
+
+@media (max-width: 20%){
+    .table tr th, .table tr td{
+      width: 50%;
+    }
+    .on-small thead{
+      display: none;
+    }
+  }
