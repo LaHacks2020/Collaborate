@@ -7,7 +7,7 @@ Considering the current situation where almost all the meetings have turned virt
 
 • After logging it :The user would be able to see their own profile and edit it. See their meetings dialog, their connections within the organization, tasks completed.
 
-• They can see upcoming meeting on their portal which includes both mandatory meetings(ex: Daily Stand up meeting) + optional AI recommended virtual meetings which empowers users at different locations to collaboratively share knowledge, have fun and feel relieved from the stress caused by current outbreak (ex: abstract card meeting). 
+• They can see upcoming meetings on their portal which includes both mandatory meetings(ex: Daily Stand up meeting) + optional AI recommended virtual meetings which empowers users at different locations to collaboratively share knowledge, have fun and feel relieved from the stress caused by current outbreak (ex: abstract card meeting). 
 
 • Recommended Events: If the user clicks on the photo of the upcoming events, then it will take user to a place where they can see more deatils about upcoming event and that page will also have recomened events for them.
 
