@@ -7,7 +7,7 @@ As if now-a-days situation people are only able to meet virtual. In huge organiz
 
 • After logging it :The employee who is logging in would be able to see their own profile and edit it. See how many meetings they have coming up, they connections within the organization, tasks completed.
 
-• They can see upcoming meeting on their portal whichh includes mandatory meetings(ex: Daily Stand up meeting) + optional meetings(ex: abstract card meeting). 
+• They can see upcoming meeting on their portal whichh includes mandatory meetings(ex: Daily Stand up meeting) + optional recommended meetings which empowers users at different locations to collaboratively share knowledge, have fun and relieves them from stress caused by the current outbreak (ex: abstract card meeting). 
 
 • Recommended Events: If the user clicks on the photo of the upcoming events, then it will take user to a place where they can see more deatils about upcoming event and that page will also have recomened events for them.
 
@@ -21,10 +21,10 @@ As if now-a-days situation people are only able to meet virtual. In huge organiz
 
 ## Challenges ##
 
-1) Styling in web pages is tedious. We created 5 front-end responsive, polished pages from srach which itlsef took full 30 hours of contimus work and craft on it. Challenge was to make pages look like exactly what we wanted. At one point we were scared if we will get to our goal before the deadline.
+1) Styling in web pages is tedious. We created 5 front-end responsive, polished pages from scratch which itlsef took around 30 hours of continous effort to craft them the way we wanted and to create an end-to-end working model. At one point, we were scared if we could even get to our goal before the deadline.
 
-2) Maps issue with snippet:
+2) Training an ML model to give meetup recommendations based on user profile and meetup api keywords
 
 3) Backened challenges
 
-4) combining front end with back end: 
+4) Integrating front end with back end: 
