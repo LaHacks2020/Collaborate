@@ -3,7 +3,7 @@ A new way to collaborate with your colleagues and organizing your meetings.
 
 ## Usage
 An *ML based web platform* which not only enables users to organize all their virtual meetings within an organization, company or a startup but more importantly helps them to get to know the fellow participants before they virtually start a meeting with them. This will help prevent strange culture within the the company where employees are still getting to know each other in first couple of minutes and then starting the meeting. 
-As if now-a-days situation people are only able to meet virtual. In huge organizations a single meeting will atleast consist of 10-200 participants and a lot of their emplooyees who join the meeting do not even know about 80% of the employees joing those big meetings. So to improve this situation we created this platform, where: 
+Considering the current situation where almost all the meetings have turned virtual, it is quite essential to have a one stop destination which enables effective collaboration and organize all you meetings together . Especially in in huge organizations every single meeting will atleast consist of 10-200 participants and a lot of their emplooyees who join the meeting do not even know about 80% of other individuals joing those big meetings. So to improve this situation we created this platform, where: 
 
 • After logging it :The employee who is logging in would be able to see their own profile and edit it. See how many meetings they have coming up, they connections within the organization, tasks completed.
 
@@ -25,6 +25,6 @@ As if now-a-days situation people are only able to meet virtual. In huge organiz
 
 2) Training an ML model to give meetup recommendations based on user profile and meetup api keywords
 
-3) Backened challenges
+3) Backened integration of 7 different api's( Twilio, google, zoom, calendly, meetup)
 
 4) Integrating front end with back end: 
