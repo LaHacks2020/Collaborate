@@ -21,7 +21,7 @@ Considering the current situation where almost all the meetings have turned virt
 
 ## Challenges ##
 
-1) Styling the web pages was tedious. We had to create 5 fully responsive polished pages from scratch, which itlsef took around 30 hours of continous effort to craft them and to create an end-to-end working model. At one point, we were scared if we could even get to our goal before the deadline.
+1) Styling the web pages was tedious. We had to create 5 fully responsive polished pages from scratch, which itself took around 30 hours of continous effort to craft them and to create an end-to-end working model. At one point, we were scared if we could even get to our goal before the deadline.
 
 2) Training an ML model to give meetup recommendations based on user profile and meetup api keywords
 
