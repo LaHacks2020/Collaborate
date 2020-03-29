@@ -17,11 +17,11 @@ As if now-a-days situation people are only able to meet virtual. In huge organiz
 
 • User can also see where the other employees are meeting joining from. for Example one employee could be joing from California, other from New York, someone from Singapore, India or Africa.
 
-• Within user portal, user have option to host the meeting as well. If the user choose to host the meeting then it will take user to a form where they fill out the data, time and purpose of the meeting and choose the people within the organization whom the user wants to join their meeting.
+• Within user portal, user has an option to host new meeting in zoom or hangouts and send invites as well. If the user chooses to host the meeting then it will take user to a form where they fill out the data, time and purpose of the meeting and choose the people within the organization whom the user wants to join their meeting. The new meeting created will immediately be added into upcoming meetings and these attendees will be notified with the link in mail and also they'll be reminded through a text message which is sent few minutes before the scheduled meeting time.  
 
 ## Challenges ##
 
-1) Styling in web pages is tedious. We created 5 front-end responsive, polished pages from scratch which itlsef took around 30 hours of continous effort to craft them the way we wanted and to create an end-to-end working model. At one point, we were scared if we could even get to our goal before the deadline.
+1) Styling the web pages was tedious. We had to create 5 fully responsive polished pages from scratch, which itlsef took around 30 hours of continous effort to craft them and to create an end-to-end working model. At one point, we were scared if we could even get to our goal before the deadline.
 
 2) Training an ML model to give meetup recommendations based on user profile and meetup api keywords
 
