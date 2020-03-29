@@ -2,8 +2,8 @@
 A new way to collaborate with your colleagues and organizing your meetings.
 
 ## Usage
-A web platform which not only enables users to organize all their virtual meetings wiin an organization, company or a startup but more importantly helps them to get to know the fellow participants before they virtually start a meeting with them. This will help prevent strange culture within the the comany where employees are still getting to know each other in first couple of minutes and then starting the meeting. 
-As if now-a-days situation people are only able to meet virtual. In big organization the meeting could be from 10 people to 200 people conference. Alot of their emplooyees joing the meeting do not know about 80% of the employees joing those big meetings. So we created a platform for emplooyees to use in an organization where 
+A web platform which not only enables users to organize all their virtual meetings within an organization, company or a startup but more importantly helps them to get to know the fellow participants before they virtually start a meeting with them. This will help prevent strange culture within the the company where employees are still getting to know each other in first couple of minutes and then starting the meeting. 
+As if now-a-days situation people are only able to meet virtual. In huge organizations a single meeting will atleast consist of 10-200 participants and a lot of their emplooyees who join the meeting do not even know about 80% of the employees joing those big meetings. So to improve this situation we created this platform, where: 
 
 • After logging it :The employee who is logging in would be able to see their own profile and edit it. See how many meetings they have coming up, they connections within the organization, tasks completed.
 
