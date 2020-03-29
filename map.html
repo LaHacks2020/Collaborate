@@ -20,6 +20,22 @@
         height: 100%;
         width: 100%;
       }
+      overview {
+        position: absolute;
+        top: 12px;
+        right: 12px;
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
+        z-index:1;
+        overflow: hidden;
+      }
+
+      #extentDiv {
+        background-color: rgba(0, 0, 0, 0.5);
+        position: absolute;
+        z-index: 2;
+      }
     </style>
 
     <link
@@ -30,28 +46,27 @@
 
     <script>
       require(["esri/Map", "esri/views/SceneView", "esri/widgets/Search", "esri/views/navigation/Navigation", "esri/tasks/RouteTask",
-        "esri/views/MapView",
-        "esri/Graphic",
-        "esri/layers/GraphicsLayer",
-        "esri/tasks/RouteTask",
-        "esri/tasks/support/RouteParameters",
-        "esri/tasks/support/FeatureSet"], function(Map, SceneView, Search, Navigation, MapView, Graphic, GraphicsLayer, RouteTask, RouteParameters, FeatureSet) {
-
-        var routeTask = new RouteTask({
-            url:
-              "https://utility.arcgis.com/usrsvcs/appservices/srsKxBIxJZB0pTZ0/rest/services/World/Route/NAServer/Route_World"
-          });
+        "esri/views/MapView", "esri/Graphic"],
+        function(Map, SceneView, Search, Navigation, MapView, Graphic) {
 
         var map = new Map({
           basemap: "streets",
           ground: "world-elevation"
         });
 
+
         var view = new SceneView({
           container: "viewDiv",
           map: map,
-          scale: 30000000,
-          center: [-10.17, 21.78]
+          //scale: 100000,
+          camera : {
+            position: {
+              x: -122.272781,
+              y: 37.41666,
+              z: 25000
+            },
+            tilt: 65 // perspective degrees
+          }
         });
 
         var searchWidget = new Search({
