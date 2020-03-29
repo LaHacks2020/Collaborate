@@ -437,3 +437,25 @@ footer p a:hover {
     vertical-align: middle ;
     margin-right: 5px ;
 }
+
+.host
+{
+    z-index: 1;
+    font-weight: 600;
+    float: left;
+    overflow: hidden;
+    padding: 20px 80px;
+    position: relative;
+    border-radius: 30px;
+    color: #010101;
+    text-transform: uppercase;
+    background: #e4e0e0;
+    margin: 5% 33%;
+    font-size: 15px ;
+}
+.host:hover
+{
+    background: #010101;
+    text-decoration: none;
+    color: rgb(247, 240, 240) ;
+}
