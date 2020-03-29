@@ -27,4 +27,4 @@ Considering the current situation where almost all the meetings have turned virt
 
 3) Backend integration of 7 different api's( Twilio, google, zoom, calendly, meetup)
 
-4) Integrating front end with back end
+4) Integrating front end and thwith back end written using node.js 
