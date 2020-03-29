@@ -25,6 +25,6 @@ Considering the current situation where almost all the meetings have turned virt
 
 2) Training an ML model to give meetup recommendations based on user profile and meetup api keywords
 
-3) Backened integration of 7 different api's( Twilio, google, zoom, calendly, meetup)
+3) Backend integration of 7 different api's( Twilio, google, zoom, calendly, meetup)
 
-4) Integrating front end with back end: 
+4) Integrating front end with back end
