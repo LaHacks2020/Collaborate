@@ -1,5 +1,5 @@
 # Collaborate
-A new way to collaborate with you colleagues and organizing your meetings.
+A one stop destination to collaborate with your colleagues and organize your meetings.
 
 ## Usage
 
